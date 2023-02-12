@@ -1,0 +1,3936 @@
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          19
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          19
+        ],
+        "dueDate": [
+          2022,
+          9,
+          19
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+ Next{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+ Next{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+ Next{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 16800,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesPaid": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalPaidForPeriod": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          1
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 15000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 1500,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 16500,
+        "totalPaidInAdvanceForPeriod": 16500,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+ Next{
+  "status": "success",
+  "data": {
+    "principalAmount": 10000,
+    "repayment": 11200,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 10000,
+        "principalLoanBalanceOutstanding": 10000,
+        "feeChargesDue": 200,
+        "feeChargesPaid": 200,
+        "totalOriginalDueForPeriod": 200,
+        "totalDueForPeriod": 200,
+        "totalPaidForPeriod": 200,
+        "totalActualCostOfLoanForPeriod": 200
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          2
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 10000,
+        "principalDue": 10000,
+        "principalPaid": 10000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1000,
+        "interestDue": 1000,
+        "interestPaid": 1000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 11000,
+        "totalDueForPeriod": 11000,
+        "totalPaidForPeriod": 11000,
+        "totalPaidInAdvanceForPeriod": 11000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1000,
+        "totalInstallmentAmountForPeriod": 11000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08062085400",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+ Next{
+  "status": "success",
+  "data": {
+    "principalAmount": 12500,
+    "repayment": 250,
+    "balance": 13750,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 12500,
+        "principalLoanBalanceOutstanding": 12500,
+        "feeChargesDue": 250,
+        "feeChargesOutstanding": 250,
+        "totalOriginalDueForPeriod": 250,
+        "totalDueForPeriod": 250,
+        "totalOutstandingForPeriod": 250,
+        "totalOverdue": 250,
+        "totalActualCostOfLoanForPeriod": 250
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 12500,
+        "principalDue": 12500,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 12500,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1250,
+        "interestDue": 1250,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1250,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 13750,
+        "totalDueForPeriod": 13750,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 13750,
+        "totalOverdue": 13750,
+        "totalActualCostOfLoanForPeriod": 1250,
+        "totalInstallmentAmountForPeriod": 13750
+      }
+    ],
+    "user": {
+      "firstName": "ADEWOLE",
+      "lastName": "ADEGBOLA",
+      "phoneNumber": "08027280205",
+      "email": "adewole.idris@citygateglobal.com",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {
+        "name": "ETMFB",
+        "salary": 210000,
+        "salaryPaymentDate": "2022-08-23T00:00:00.000Z"
+      },
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+ Next{
+  "status": "success",
+  "data": {
+    "principalAmount": 70000,
+    "repayment": 1400,
+    "balance": 77000,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 70000,
+        "principalLoanBalanceOutstanding": 70000,
+        "feeChargesDue": 1400,
+        "feeChargesOutstanding": 1400,
+        "totalOriginalDueForPeriod": 1400,
+        "totalDueForPeriod": 1400,
+        "totalOutstandingForPeriod": 1400,
+        "totalOverdue": 1400,
+        "totalActualCostOfLoanForPeriod": 1400
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 70000,
+        "principalDue": 70000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 70000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 7000,
+        "interestDue": 7000,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 7000,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 77000,
+        "totalDueForPeriod": 77000,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 77000,
+        "totalOverdue": 77000,
+        "totalActualCostOfLoanForPeriod": 7000,
+        "totalInstallmentAmountForPeriod": 77000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023155688",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+ Next{
+  "status": "success",
+  "data": {
+    "principalAmount": 70000,
+    "repayment": 78400,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 70000,
+        "principalLoanBalanceOutstanding": 70000,
+        "feeChargesDue": 1400,
+        "feeChargesPaid": 1400,
+        "totalOriginalDueForPeriod": 1400,
+        "totalDueForPeriod": 1400,
+        "totalPaidForPeriod": 1400,
+        "totalActualCostOfLoanForPeriod": 1400
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          3
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 70000,
+        "principalDue": 70000,
+        "principalPaid": 70000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 7000,
+        "interestDue": 7000,
+        "interestPaid": 7000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 77000,
+        "totalDueForPeriod": 77000,
+        "totalPaidForPeriod": 77000,
+        "totalPaidInAdvanceForPeriod": 77000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 7000,
+        "totalInstallmentAmountForPeriod": 77000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023155688",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+ Next{
+  "status": "success",
+  "data": {
+    "principalAmount": 100000,
+    "repayment": 112000,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 100000,
+        "principalLoanBalanceOutstanding": 100000,
+        "feeChargesDue": 2000,
+        "feeChargesPaid": 2000,
+        "totalOriginalDueForPeriod": 2000,
+        "totalDueForPeriod": 2000,
+        "totalPaidForPeriod": 2000,
+        "totalActualCostOfLoanForPeriod": 2000
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          10
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 100000,
+        "principalDue": 100000,
+        "principalPaid": 100000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 10000,
+        "interestDue": 10000,
+        "interestPaid": 10000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 110000,
+        "totalDueForPeriod": 110000,
+        "totalPaidForPeriod": 110000,
+        "totalPaidInAdvanceForPeriod": 110000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 10000,
+        "totalInstallmentAmountForPeriod": 110000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08033838474",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+ Next{
+  "status": "success",
+  "data": {
+    "principalAmount": 12500,
+    "repayment": 14000,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          21
+        ],
+        "principalDisbursed": 12500,
+        "principalLoanBalanceOutstanding": 12500,
+        "feeChargesDue": 250,
+        "feeChargesPaid": 250,
+        "totalOriginalDueForPeriod": 250,
+        "totalDueForPeriod": 250,
+        "totalPaidForPeriod": 250,
+        "totalActualCostOfLoanForPeriod": 250
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          21
+        ],
+        "dueDate": [
+          2022,
+          9,
+          21
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          3
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 12500,
+        "principalDue": 12500,
+        "principalPaid": 12500,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1250,
+        "interestDue": 1250,
+        "interestPaid": 1250,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 13750,
+        "totalDueForPeriod": 13750,
+        "totalPaidForPeriod": 13750,
+        "totalPaidInAdvanceForPeriod": 13750,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1250,
+        "totalInstallmentAmountForPeriod": 13750
+      }
+    ],
+    "user": {
+      "firstName": "ADEWOLE",
+      "lastName": "ADEGBOLA",
+      "phoneNumber": "08027280205",
+      "email": "adewole.idris@citygateglobal.com",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {
+        "name": "ETMFB",
+        "salary": 210000,
+        "salaryPaymentDate": "2022-08-23T00:00:00.000Z"
+      },
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+ Next{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          19
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          19
+        ],
+        "dueDate": [
+          2022,
+          9,
+          19
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 16800,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesPaid": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalPaidForPeriod": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          1
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 15000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 1500,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 16500,
+        "totalPaidInAdvanceForPeriod": 16500,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          19
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          19
+        ],
+        "dueDate": [
+          2022,
+          9,
+          19
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 16800,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesPaid": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalPaidForPeriod": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          1
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 15000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 1500,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 16500,
+        "totalPaidInAdvanceForPeriod": 16500,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 10000,
+    "repayment": 11200,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 10000,
+        "principalLoanBalanceOutstanding": 10000,
+        "feeChargesDue": 200,
+        "feeChargesPaid": 200,
+        "totalOriginalDueForPeriod": 200,
+        "totalDueForPeriod": 200,
+        "totalPaidForPeriod": 200,
+        "totalActualCostOfLoanForPeriod": 200
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          2
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 10000,
+        "principalDue": 10000,
+        "principalPaid": 10000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1000,
+        "interestDue": 1000,
+        "interestPaid": 1000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 11000,
+        "totalDueForPeriod": 11000,
+        "totalPaidForPeriod": 11000,
+        "totalPaidInAdvanceForPeriod": 11000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1000,
+        "totalInstallmentAmountForPeriod": 11000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08062085400",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 12500,
+    "repayment": 250,
+    "balance": 13750,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 12500,
+        "principalLoanBalanceOutstanding": 12500,
+        "feeChargesDue": 250,
+        "feeChargesOutstanding": 250,
+        "totalOriginalDueForPeriod": 250,
+        "totalDueForPeriod": 250,
+        "totalOutstandingForPeriod": 250,
+        "totalOverdue": 250,
+        "totalActualCostOfLoanForPeriod": 250
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 12500,
+        "principalDue": 12500,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 12500,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1250,
+        "interestDue": 1250,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1250,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 13750,
+        "totalDueForPeriod": 13750,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 13750,
+        "totalOverdue": 13750,
+        "totalActualCostOfLoanForPeriod": 1250,
+        "totalInstallmentAmountForPeriod": 13750
+      }
+    ],
+    "user": {
+      "firstName": "ADEWOLE",
+      "lastName": "ADEGBOLA",
+      "phoneNumber": "08027280205",
+      "email": "adewole.idris@citygateglobal.com",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {
+        "name": "ETMFB",
+        "salary": 210000,
+        "salaryPaymentDate": "2022-08-23T00:00:00.000Z"
+      },
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 70000,
+    "repayment": 1400,
+    "balance": 77000,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 70000,
+        "principalLoanBalanceOutstanding": 70000,
+        "feeChargesDue": 1400,
+        "feeChargesOutstanding": 1400,
+        "totalOriginalDueForPeriod": 1400,
+        "totalDueForPeriod": 1400,
+        "totalOutstandingForPeriod": 1400,
+        "totalOverdue": 1400,
+        "totalActualCostOfLoanForPeriod": 1400
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 70000,
+        "principalDue": 70000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 70000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 7000,
+        "interestDue": 7000,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 7000,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 77000,
+        "totalDueForPeriod": 77000,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 77000,
+        "totalOverdue": 77000,
+        "totalActualCostOfLoanForPeriod": 7000,
+        "totalInstallmentAmountForPeriod": 77000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023155688",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 70000,
+    "repayment": 78400,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 70000,
+        "principalLoanBalanceOutstanding": 70000,
+        "feeChargesDue": 1400,
+        "feeChargesPaid": 1400,
+        "totalOriginalDueForPeriod": 1400,
+        "totalDueForPeriod": 1400,
+        "totalPaidForPeriod": 1400,
+        "totalActualCostOfLoanForPeriod": 1400
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          3
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 70000,
+        "principalDue": 70000,
+        "principalPaid": 70000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 7000,
+        "interestDue": 7000,
+        "interestPaid": 7000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 77000,
+        "totalDueForPeriod": 77000,
+        "totalPaidForPeriod": 77000,
+        "totalPaidInAdvanceForPeriod": 77000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 7000,
+        "totalInstallmentAmountForPeriod": 77000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023155688",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 100000,
+    "repayment": 112000,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 100000,
+        "principalLoanBalanceOutstanding": 100000,
+        "feeChargesDue": 2000,
+        "feeChargesPaid": 2000,
+        "totalOriginalDueForPeriod": 2000,
+        "totalDueForPeriod": 2000,
+        "totalPaidForPeriod": 2000,
+        "totalActualCostOfLoanForPeriod": 2000
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          10
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 100000,
+        "principalDue": 100000,
+        "principalPaid": 100000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 10000,
+        "interestDue": 10000,
+        "interestPaid": 10000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 110000,
+        "totalDueForPeriod": 110000,
+        "totalPaidForPeriod": 110000,
+        "totalPaidInAdvanceForPeriod": 110000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 10000,
+        "totalInstallmentAmountForPeriod": 110000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08033838474",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 12500,
+    "repayment": 14000,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          21
+        ],
+        "principalDisbursed": 12500,
+        "principalLoanBalanceOutstanding": 12500,
+        "feeChargesDue": 250,
+        "feeChargesPaid": 250,
+        "totalOriginalDueForPeriod": 250,
+        "totalDueForPeriod": 250,
+        "totalPaidForPeriod": 250,
+        "totalActualCostOfLoanForPeriod": 250
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          21
+        ],
+        "dueDate": [
+          2022,
+          9,
+          21
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          3
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 12500,
+        "principalDue": 12500,
+        "principalPaid": 12500,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1250,
+        "interestDue": 1250,
+        "interestPaid": 1250,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 13750,
+        "totalDueForPeriod": 13750,
+        "totalPaidForPeriod": 13750,
+        "totalPaidInAdvanceForPeriod": 13750,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1250,
+        "totalInstallmentAmountForPeriod": 13750
+      }
+    ],
+    "user": {
+      "firstName": "ADEWOLE",
+      "lastName": "ADEGBOLA",
+      "phoneNumber": "08027280205",
+      "email": "adewole.idris@citygateglobal.com",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {
+        "name": "ETMFB",
+        "salary": 210000,
+        "salaryPaymentDate": "2022-08-23T00:00:00.000Z"
+      },
+      "loanProduct": "2"
+    }
+  },
+  "cached": true
+}
+
+
+ Next 
+
+
+ {
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          19
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          19
+        ],
+        "dueDate": [
+          2022,
+          9,
+          19
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 16800,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesPaid": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalPaidForPeriod": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          1
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 15000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 1500,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 16500,
+        "totalPaidInAdvanceForPeriod": 16500,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 10000,
+    "repayment": 11200,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 10000,
+        "principalLoanBalanceOutstanding": 10000,
+        "feeChargesDue": 200,
+        "feeChargesPaid": 200,
+        "totalOriginalDueForPeriod": 200,
+        "totalDueForPeriod": 200,
+        "totalPaidForPeriod": 200,
+        "totalActualCostOfLoanForPeriod": 200
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          2
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 10000,
+        "principalDue": 10000,
+        "principalPaid": 10000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1000,
+        "interestDue": 1000,
+        "interestPaid": 1000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 11000,
+        "totalDueForPeriod": 11000,
+        "totalPaidForPeriod": 11000,
+        "totalPaidInAdvanceForPeriod": 11000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1000,
+        "totalInstallmentAmountForPeriod": 11000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08062085400",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 12500,
+    "repayment": 250,
+    "balance": 13750,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 12500,
+        "principalLoanBalanceOutstanding": 12500,
+        "feeChargesDue": 250,
+        "feeChargesOutstanding": 250,
+        "totalOriginalDueForPeriod": 250,
+        "totalDueForPeriod": 250,
+        "totalOutstandingForPeriod": 250,
+        "totalOverdue": 250,
+        "totalActualCostOfLoanForPeriod": 250
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 12500,
+        "principalDue": 12500,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 12500,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1250,
+        "interestDue": 1250,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1250,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 13750,
+        "totalDueForPeriod": 13750,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 13750,
+        "totalOverdue": 13750,
+        "totalActualCostOfLoanForPeriod": 1250,
+        "totalInstallmentAmountForPeriod": 13750
+      }
+    ],
+    "user": {
+      "firstName": "ADEWOLE",
+      "lastName": "ADEGBOLA",
+      "phoneNumber": "08027280205",
+      "email": "adewole.idris@citygateglobal.com",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {
+        "name": "ETMFB",
+        "salary": 210000,
+        "salaryPaymentDate": "2022-08-23T00:00:00.000Z"
+      },
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 70000,
+    "repayment": 1400,
+    "balance": 77000,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 70000,
+        "principalLoanBalanceOutstanding": 70000,
+        "feeChargesDue": 1400,
+        "feeChargesOutstanding": 1400,
+        "totalOriginalDueForPeriod": 1400,
+        "totalDueForPeriod": 1400,
+        "totalOutstandingForPeriod": 1400,
+        "totalOverdue": 1400,
+        "totalActualCostOfLoanForPeriod": 1400
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 70000,
+        "principalDue": 70000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 70000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 7000,
+        "interestDue": 7000,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 7000,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 77000,
+        "totalDueForPeriod": 77000,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 77000,
+        "totalOverdue": 77000,
+        "totalActualCostOfLoanForPeriod": 7000,
+        "totalInstallmentAmountForPeriod": 77000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023155688",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 70000,
+    "repayment": 78400,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 70000,
+        "principalLoanBalanceOutstanding": 70000,
+        "feeChargesDue": 1400,
+        "feeChargesPaid": 1400,
+        "totalOriginalDueForPeriod": 1400,
+        "totalDueForPeriod": 1400,
+        "totalPaidForPeriod": 1400,
+        "totalActualCostOfLoanForPeriod": 1400
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          3
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 70000,
+        "principalDue": 70000,
+        "principalPaid": 70000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 7000,
+        "interestDue": 7000,
+        "interestPaid": 7000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 77000,
+        "totalDueForPeriod": 77000,
+        "totalPaidForPeriod": 77000,
+        "totalPaidInAdvanceForPeriod": 77000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 7000,
+        "totalInstallmentAmountForPeriod": 77000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023155688",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 100000,
+    "repayment": 112000,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 100000,
+        "principalLoanBalanceOutstanding": 100000,
+        "feeChargesDue": 2000,
+        "feeChargesPaid": 2000,
+        "totalOriginalDueForPeriod": 2000,
+        "totalDueForPeriod": 2000,
+        "totalPaidForPeriod": 2000,
+        "totalActualCostOfLoanForPeriod": 2000
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          10
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 100000,
+        "principalDue": 100000,
+        "principalPaid": 100000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 10000,
+        "interestDue": 10000,
+        "interestPaid": 10000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 110000,
+        "totalDueForPeriod": 110000,
+        "totalPaidForPeriod": 110000,
+        "totalPaidInAdvanceForPeriod": 110000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 10000,
+        "totalInstallmentAmountForPeriod": 110000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08033838474",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 12500,
+    "repayment": 14000,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          21
+        ],
+        "principalDisbursed": 12500,
+        "principalLoanBalanceOutstanding": 12500,
+        "feeChargesDue": 250,
+        "feeChargesPaid": 250,
+        "totalOriginalDueForPeriod": 250,
+        "totalDueForPeriod": 250,
+        "totalPaidForPeriod": 250,
+        "totalActualCostOfLoanForPeriod": 250
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          21
+        ],
+        "dueDate": [
+          2022,
+          9,
+          21
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          3
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 12500,
+        "principalDue": 12500,
+        "principalPaid": 12500,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1250,
+        "interestDue": 1250,
+        "interestPaid": 1250,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 13750,
+        "totalDueForPeriod": 13750,
+        "totalPaidForPeriod": 13750,
+        "totalPaidInAdvanceForPeriod": 13750,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1250,
+        "totalInstallmentAmountForPeriod": 13750
+      }
+    ],
+    "user": {
+      "firstName": "ADEWOLE",
+      "lastName": "ADEGBOLA",
+      "phoneNumber": "08027280205",
+      "email": "adewole.idris@citygateglobal.com",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {
+        "name": "ETMFB",
+        "salary": 210000,
+        "salaryPaymentDate": "2022-08-23T00:00:00.000Z"
+      },
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          19
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          19
+        ],
+        "dueDate": [
+          2022,
+          9,
+          19
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 300,
+    "balance": 16500,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesOutstanding": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalOutstandingForPeriod": 300,
+        "totalOverdue": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 15000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1500,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 16500,
+        "totalOverdue": 16500,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 15000,
+    "repayment": 16800,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 15000,
+        "principalLoanBalanceOutstanding": 15000,
+        "feeChargesDue": 300,
+        "feeChargesPaid": 300,
+        "totalOriginalDueForPeriod": 300,
+        "totalDueForPeriod": 300,
+        "totalPaidForPeriod": 300,
+        "totalActualCostOfLoanForPeriod": 300
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          1
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 15000,
+        "principalDue": 15000,
+        "principalPaid": 15000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1500,
+        "interestDue": 1500,
+        "interestPaid": 1500,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 16500,
+        "totalDueForPeriod": 16500,
+        "totalPaidForPeriod": 16500,
+        "totalPaidInAdvanceForPeriod": 16500,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1500,
+        "totalInstallmentAmountForPeriod": 16500
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023024961",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 10000,
+    "repayment": 11200,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 10000,
+        "principalLoanBalanceOutstanding": 10000,
+        "feeChargesDue": 200,
+        "feeChargesPaid": 200,
+        "totalOriginalDueForPeriod": 200,
+        "totalDueForPeriod": 200,
+        "totalPaidForPeriod": 200,
+        "totalActualCostOfLoanForPeriod": 200
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          2
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 10000,
+        "principalDue": 10000,
+        "principalPaid": 10000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1000,
+        "interestDue": 1000,
+        "interestPaid": 1000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 11000,
+        "totalDueForPeriod": 11000,
+        "totalPaidForPeriod": 11000,
+        "totalPaidInAdvanceForPeriod": 11000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1000,
+        "totalInstallmentAmountForPeriod": 11000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08062085400",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 12500,
+    "repayment": 250,
+    "balance": 13750,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 12500,
+        "principalLoanBalanceOutstanding": 12500,
+        "feeChargesDue": 250,
+        "feeChargesOutstanding": 250,
+        "totalOriginalDueForPeriod": 250,
+        "totalDueForPeriod": 250,
+        "totalOutstandingForPeriod": 250,
+        "totalOverdue": 250,
+        "totalActualCostOfLoanForPeriod": 250
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 12500,
+        "principalDue": 12500,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 12500,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1250,
+        "interestDue": 1250,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 1250,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 13750,
+        "totalDueForPeriod": 13750,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 13750,
+        "totalOverdue": 13750,
+        "totalActualCostOfLoanForPeriod": 1250,
+        "totalInstallmentAmountForPeriod": 13750
+      }
+    ],
+    "user": {
+      "firstName": "ADEWOLE",
+      "lastName": "ADEGBOLA",
+      "phoneNumber": "08027280205",
+      "email": "adewole.idris@citygateglobal.com",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {
+        "name": "ETMFB",
+        "salary": 210000,
+        "salaryPaymentDate": "2022-08-23T00:00:00.000Z"
+      },
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 70000,
+    "repayment": 1400,
+    "balance": 77000,
+    "status": "closed",
+    "disbursementStatus": "failed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 70000,
+        "principalLoanBalanceOutstanding": 70000,
+        "feeChargesDue": 1400,
+        "feeChargesOutstanding": 1400,
+        "totalOriginalDueForPeriod": 1400,
+        "totalDueForPeriod": 1400,
+        "totalOutstandingForPeriod": 1400,
+        "totalOverdue": 1400,
+        "totalActualCostOfLoanForPeriod": 1400
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "complete": false,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 70000,
+        "principalDue": 70000,
+        "principalPaid": 0,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 70000,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 7000,
+        "interestDue": 7000,
+        "interestPaid": 0,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 7000,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 77000,
+        "totalDueForPeriod": 77000,
+        "totalPaidForPeriod": 0,
+        "totalPaidInAdvanceForPeriod": 0,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 77000,
+        "totalOverdue": 77000,
+        "totalActualCostOfLoanForPeriod": 7000,
+        "totalInstallmentAmountForPeriod": 77000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023155688",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 70000,
+    "repayment": 78400,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 70000,
+        "principalLoanBalanceOutstanding": 70000,
+        "feeChargesDue": 1400,
+        "feeChargesPaid": 1400,
+        "totalOriginalDueForPeriod": 1400,
+        "totalDueForPeriod": 1400,
+        "totalPaidForPeriod": 1400,
+        "totalActualCostOfLoanForPeriod": 1400
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          3
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 70000,
+        "principalDue": 70000,
+        "principalPaid": 70000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 7000,
+        "interestDue": 7000,
+        "interestPaid": 7000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 77000,
+        "totalDueForPeriod": 77000,
+        "totalPaidForPeriod": 77000,
+        "totalPaidInAdvanceForPeriod": 77000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 7000,
+        "totalInstallmentAmountForPeriod": 77000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08023155688",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 100000,
+    "repayment": 112000,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          20
+        ],
+        "principalDisbursed": 100000,
+        "principalLoanBalanceOutstanding": 100000,
+        "feeChargesDue": 2000,
+        "feeChargesPaid": 2000,
+        "totalOriginalDueForPeriod": 2000,
+        "totalDueForPeriod": 2000,
+        "totalPaidForPeriod": 2000,
+        "totalActualCostOfLoanForPeriod": 2000
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          20
+        ],
+        "dueDate": [
+          2022,
+          9,
+          20
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          10
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 100000,
+        "principalDue": 100000,
+        "principalPaid": 100000,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 10000,
+        "interestDue": 10000,
+        "interestPaid": 10000,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 110000,
+        "totalDueForPeriod": 110000,
+        "totalPaidForPeriod": 110000,
+        "totalPaidInAdvanceForPeriod": 110000,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 10000,
+        "totalInstallmentAmountForPeriod": 110000
+      }
+    ],
+    "user": {
+      "phoneNumber": "08033838474",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {},
+      "loanProduct": "2"
+    }
+  }
+}
+
+
+{
+  "status": "success",
+  "data": {
+    "principalAmount": 12500,
+    "repayment": 14000,
+    "balance": 0,
+    "status": "closed",
+    "disbursementStatus": "completed",
+    "schedule": [
+      {
+        "dueDate": [
+          2022,
+          8,
+          21
+        ],
+        "principalDisbursed": 12500,
+        "principalLoanBalanceOutstanding": 12500,
+        "feeChargesDue": 250,
+        "feeChargesPaid": 250,
+        "totalOriginalDueForPeriod": 250,
+        "totalDueForPeriod": 250,
+        "totalPaidForPeriod": 250,
+        "totalActualCostOfLoanForPeriod": 250
+      },
+      {
+        "period": 1,
+        "fromDate": [
+          2022,
+          8,
+          21
+        ],
+        "dueDate": [
+          2022,
+          9,
+          21
+        ],
+        "obligationsMetOnDate": [
+          2022,
+          9,
+          3
+        ],
+        "complete": true,
+        "daysInPeriod": 31,
+        "principalOriginalDue": 12500,
+        "principalDue": 12500,
+        "principalPaid": 12500,
+        "principalWrittenOff": 0,
+        "principalOutstanding": 0,
+        "principalLoanBalanceOutstanding": 0,
+        "interestOriginalDue": 1250,
+        "interestDue": 1250,
+        "interestPaid": 1250,
+        "interestWaived": 0,
+        "interestWrittenOff": 0,
+        "interestOutstanding": 0,
+        "feeChargesDue": 0,
+        "feeChargesPaid": 0,
+        "feeChargesWaived": 0,
+        "feeChargesWrittenOff": 0,
+        "feeChargesOutstanding": 0,
+        "penaltyChargesDue": 0,
+        "penaltyChargesPaid": 0,
+        "penaltyChargesWaived": 0,
+        "penaltyChargesWrittenOff": 0,
+        "penaltyChargesOutstanding": 0,
+        "totalOriginalDueForPeriod": 13750,
+        "totalDueForPeriod": 13750,
+        "totalPaidForPeriod": 13750,
+        "totalPaidInAdvanceForPeriod": 13750,
+        "totalPaidLateForPeriod": 0,
+        "totalWaivedForPeriod": 0,
+        "totalWrittenOffForPeriod": 0,
+        "totalOutstandingForPeriod": 0,
+        "totalOverdue": 0,
+        "totalActualCostOfLoanForPeriod": 1250,
+        "totalInstallmentAmountForPeriod": 13750
+      }
+    ],
+    "user": {
+      "firstName": "ADEWOLE",
+      "lastName": "ADEGBOLA",
+      "phoneNumber": "08027280205",
+      "email": "adewole.idris@citygateglobal.com",
+      "identity": {},
+      "nextOfKin": {},
+      "employer": {
+        "name": "ETMFB",
+        "salary": 210000,
+        "salaryPaymentDate": "2022-08-23T00:00:00.000Z"
+      },
+      "loanProduct": "2"
+    }
+  }
+}
+
+
